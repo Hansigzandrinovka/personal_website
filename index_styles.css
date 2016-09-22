@@ -1,0 +1,24 @@
+body
+{
+	background-color: #ff9933;
+	background-image: url(img/helldivers_background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: left top;
+	background-attachment: fixed;
+	font-family: comic-sans;
+}
+p
+{
+	color: red;
+	font-size: 18pt;
+}
+a
+{
+	color:black;
+}
+a:hover
+{
+	color:blue;
+	background-color: red;
+}

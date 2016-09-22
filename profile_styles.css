@@ -1,0 +1,25 @@
+body
+{
+	background-color: black;
+	background-image: url(img/gears_of_war_logo.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: right top;
+	background-attachment: fixed;
+	font-family: helvetica;
+}
+p
+{
+	color: red;
+	font-size: 18pt;
+}
+p.emphasized
+{
+	color: white;
+	font-size: 26pt;
+}
+a:hover
+{
+	color:black;
+	background-color: red;
+}

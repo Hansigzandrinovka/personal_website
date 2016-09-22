@@ -1,0 +1,10 @@
+notes:
+src folder holds HTML files
+js contains javascript files
+css contains style sheets
+img contains images
+
+html reference image in separate folder:
+<img src="../img/itsanimage.jpg">
+personal profile
+<a href="link>Funny Cat Pics</a>
